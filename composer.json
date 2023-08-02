@@ -1,4 +1,10 @@
 {
+     "name": "nadael-habrouk/smallmvc",
+    "description": "smallMVC",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    },
     "autoload": {
         "psr-4": {
             "MVC\\": "app"
